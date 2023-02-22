@@ -5,7 +5,7 @@ function App() {
     <div>
       
       <h2>Playing Now</h2>
-      <img src="/music/zitti-e-buoni.jpg" alt="Zitti e Buoni - Maneskin" width="200" height="200" />
+      <img src="../public/music/zitti-e-buoni.jpg" alt="Zitti e Buoni - Maneskin" width="200" height="200" />
 
       <div>
         <h3>Maneskin</h3>
